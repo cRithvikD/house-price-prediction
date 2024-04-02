@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project was part of the Advanced Machine Learning (MSDS 630) course at the University of San Francisco. Our team achieved a top 5 ranking among 47 groups in this competitive project.
+![house-price-497112-KhCJQICS](https://github.com/sangjun927/house-price-prediction/assets/36908657/e79dd628-8587-418b-8371-2acc7e2ea4e8)
 
 ## Data Preprocessing
 - **Structured Data:** We cleaned the data by removing symbols and correcting data types. Outliers were detected and rectified to ensure data quality.
